@@ -2,210 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72801de8-f079-439b-9fbf-5db6edb4cc6b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.supersecretrepo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.supersecretrepo/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.supersecretrepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.supersecretrepo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_MAAS_первый штаб.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_MAAS_первый штаб.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_MAAS_первый штаб.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_MAAS_первый штаб.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_Realities academy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_Realities academy.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_Песочница.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_Песочница.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_Хакатон Skolkovo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/2015_Хакатон Skolkovo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/IMG_6245.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/IMG_6245.JPG.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/Materials/2015_Realities academy.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/Materials/2015_Realities academy.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/Materials/2015_Песочница.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/Materials/2015_Песочница.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/Materials/2015_Хакатон Skolkovo 1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/Materials/2015_Хакатон Skolkovo 1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/Materials/2015_Хакатон Skolkovo.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/Materials/2015_Хакатон Skolkovo.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/VAMR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/VAMR.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/vamr.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2015_collage/vamr.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/2016_MIXAR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/2016_MIXAR.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/2016_MIXAR_square.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/2016_MIXAR_square.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/2016_Первый PHN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/2016_Первый PHN.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/2016_Штаб_Грузинский вал.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/2016_Штаб_Грузинский вал.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/2016_MIXAR.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/2016_MIXAR.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/2016_MIXAR_square.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/2016_MIXAR_square.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/2016_Первый PHN.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/2016_Первый PHN.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/2016_Штаб_Грузинский вал.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/2016_Штаб_Грузинский вал.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/PhN_LOGO 1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/PhN_LOGO 1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/PhN_LOGO.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/Materials/PhN_LOGO.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/PhN_LOGO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/PhN_LOGO.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/kips_video.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2016_collage/kips_video.mov.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2017_collage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2017_collage/2017_Гонконг.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2017_collage/2017_Гонконг.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2017_collage/2017_ДР Вани.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2017_collage/2017_ДР Вани.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2017_collage/2017_Сочи трип.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2017_collage/2017_Сочи трип.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_Второй этаж-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_Второй этаж-1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_Второй этаж.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_Второй этаж.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_ДР Иры маасштаб_иммерс театр.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_ДР Иры маасштаб_иммерс театр.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_НГ.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_НГ.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_Сочи_Абхазия.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_Сочи_Абхазия.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_Фрисби.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/2018_Фрисби.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/Видео НГ.MP4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/Видео НГ.MP4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/Видео Фрисби.MP4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/Видео Фрисби.MP4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/Ремонт на кухне штаба.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/2018_collage/Ремонт на кухне штаба.JPG.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 10.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 11.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 12.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 13.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 14.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 15.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 16.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 17.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 18.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 19.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 20.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 21.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 22.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 23.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 24.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 25.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 26.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 27.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 28.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 29.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 30.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 31.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 32.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 33.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 34.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 35.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 36.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 37.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 38.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 39.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 40.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 5.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 6.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 7.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 8.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/Artboard 9.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/memes pac.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Materials/Стикерпак2020/Стикерпак2020/memes pac.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 Back.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 Back.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 Front.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 Front.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 Left.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 Left.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 Right.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 Right.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 up back.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 up back.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 upFront.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3 upFront.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/4x3.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/Gordey.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/Gordey/2018.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/Gordey/2018/2018_Photo_1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/Gordey/2018/2018_Photo_1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/PicturePlane.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/PicturePlane.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/VideoPlane.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/VideoPlane.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/16x9 front.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/16x9 front.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/16x9 left.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/16x9 left.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/16x9 right.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/16x9 right.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/16x9.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/16x9.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/3x4.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/3x4.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/9x9 Back.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/9x9 Back.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/9x9 FrontFacing Variant.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/9x9 FrontFacing Variant.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/9x9.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XzibitMaterials/Planes/not needed/9x9.prefab.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,96 +83,77 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="397" height="466" key="DebuggerActiveHint" timestamp="1600987089203">
+    <state width="419" height="466" key="DebuggerActiveHint" timestamp="1600987433283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="397" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1600987089203" />
-    <state width="1877" height="371" key="GridCell.Tab.0.bottom" timestamp="1600987174812">
+    <state width="419" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1600987433283" />
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom" timestamp="1600987386941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174812" />
-    <state width="1877" height="371" key="GridCell.Tab.0.center" timestamp="1600987174812">
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386941" />
+    <state width="1877" height="371" key="GridCell.Tab.0.center" timestamp="1600987386940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174812" />
-    <state width="1877" height="371" key="GridCell.Tab.0.left" timestamp="1600987174812">
+    <state width="1877" height="371" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386940" />
+    <state width="1877" height="371" key="GridCell.Tab.0.left" timestamp="1600987386940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174812" />
-    <state width="1877" height="371" key="GridCell.Tab.0.right" timestamp="1600987174812">
+    <state width="1877" height="371" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386940" />
+    <state width="1877" height="371" key="GridCell.Tab.0.right" timestamp="1600987386940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174812" />
-    <state width="1877" height="371" key="GridCell.Tab.1.bottom" timestamp="1600987190869">
+    <state width="1877" height="371" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386940" />
+    <state width="1877" height="371" key="GridCell.Tab.1.bottom" timestamp="1600987392914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600987190869" />
-    <state width="1877" height="371" key="GridCell.Tab.1.center" timestamp="1600987190869">
+    <state width="1877" height="371" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600987392914" />
+    <state width="1877" height="371" key="GridCell.Tab.1.center" timestamp="1600987392914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600987190869" />
-    <state width="1877" height="371" key="GridCell.Tab.1.left" timestamp="1600987190869">
+    <state width="1877" height="371" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600987392914" />
+    <state width="1877" height="371" key="GridCell.Tab.1.left" timestamp="1600987392914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600987190869" />
-    <state width="1877" height="371" key="GridCell.Tab.1.right" timestamp="1600987190869">
+    <state width="1877" height="371" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600987392914" />
+    <state width="1877" height="371" key="GridCell.Tab.1.right" timestamp="1600987392914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600987190869" />
-    <state width="1877" height="371" key="GridCell.Tab.2.bottom" timestamp="1600987174714">
+    <state width="1877" height="371" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600987392914" />
+    <state width="1877" height="371" key="GridCell.Tab.2.bottom" timestamp="1600987386855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174714" />
-    <state width="1877" height="371" key="GridCell.Tab.2.center" timestamp="1600987174714">
+    <state width="1877" height="371" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386855" />
+    <state width="1877" height="371" key="GridCell.Tab.2.center" timestamp="1600987386855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174714" />
-    <state width="1877" height="371" key="GridCell.Tab.2.left" timestamp="1600987174714">
+    <state width="1877" height="371" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386855" />
+    <state width="1877" height="371" key="GridCell.Tab.2.left" timestamp="1600987386855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174714" />
-    <state width="1877" height="371" key="GridCell.Tab.2.right" timestamp="1600987174714">
+    <state width="1877" height="371" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386855" />
+    <state width="1877" height="371" key="GridCell.Tab.2.right" timestamp="1600987386855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174714" />
-    <state width="1877" height="371" key="GridCell.Tab.3.bottom" timestamp="1600987174714">
+    <state width="1877" height="371" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386855" />
+    <state width="1877" height="371" key="GridCell.Tab.3.bottom" timestamp="1600987386856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174714" />
-    <state width="1877" height="371" key="GridCell.Tab.3.center" timestamp="1600987174714">
+    <state width="1877" height="371" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386856" />
+    <state width="1877" height="371" key="GridCell.Tab.3.center" timestamp="1600987386856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174714" />
-    <state width="1877" height="371" key="GridCell.Tab.3.left" timestamp="1600987174714">
+    <state width="1877" height="371" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386856" />
+    <state width="1877" height="371" key="GridCell.Tab.3.left" timestamp="1600987386856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174714" />
-    <state width="1877" height="371" key="GridCell.Tab.3.right" timestamp="1600987174714">
+    <state width="1877" height="371" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386856" />
+    <state width="1877" height="371" key="GridCell.Tab.3.right" timestamp="1600987386856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="371" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600987174714" />
-    <state width="487" height="523" key="XDebugger.FullValuePopup" timestamp="1600987089199">
+    <state width="1877" height="371" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600987386856" />
+    <state width="487" height="523" key="XDebugger.FullValuePopup" timestamp="1600987419201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="487" height="523" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1600987089199" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Editor/SetTextureNativeSize.cs</url>
-          <line>17</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Editor/SetTextureNativeSize.cs" initialLine="11">
-            <startOffsets>
-              <option value="435" />
-            </startOffsets>
-            <endOffsets>
-              <option value="457" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="487" height="523" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1600987419201" />
   </component>
 </project>
